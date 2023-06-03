@@ -1,4 +1,4 @@
-# Basic-Chrome-Extension made by Agresh with the help of Scrimba Platform
+# Basic-Chrome-Extension
 
 Quick start:
 
